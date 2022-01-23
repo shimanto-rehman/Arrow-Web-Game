@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background: #222;
+    margin: 20px;
+}
+
+.arrowGame .game {
+    width: 80%;
+    height: 50%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.arrowGame .help {
+    color: white;
+    font-family: sans-serif;
+    opacity: .3;
+}
+
+.arrowGame {}
